@@ -1,0 +1,19 @@
+"""Tuần 1: Biến, chuỗi và phép tính.
+
+Đáp án tham khảo; chỉ xem sau khi tự làm. Giữ tên biến đầu vào và đầu ra
+để bộ kiểm tra tìm được. Dùng biến để tính, không chép cứng kết quả.
+Sau khi đạt, sao chép sang bai_lam rồi đổi dữ liệu để thử thêm.
+"""
+
+ten = "An"
+so_buoi = 4
+phut_moi_buoi = 45
+
+# Bài 1: Tạo lời chào bằng biến ten. Kết quả với dữ liệu gốc: Xin chào, An!
+loi_chao = f"Xin chào, {ten}!"
+
+# Bài 2: Tính tổng số phút học từ hai biến số, không viết cứng kết quả.
+tong_phut = so_buoi * phut_moi_buoi
+
+# Bài 3: Đổi tong_phut thành số giờ bằng phép chia.
+tong_gio = tong_phut / 60

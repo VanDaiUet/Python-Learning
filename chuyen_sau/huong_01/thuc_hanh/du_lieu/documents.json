@@ -1,0 +1,170 @@
+[
+  {
+    "doc_id": "nl01",
+    "title": "Học phí Python nền tảng",
+    "text": "Khóa Python nền tảng tại NovaLearn có học phí 2.400.000 VND cho toàn khóa. Mức phí này áp dụng cho học viên đóng lẻ và chưa tính ưu đãi nhóm. Thanh toán qua cổng học viên của trung tâm.",
+    "source": "novalearn://nl01",
+    "updated_at": "2026-09-01"
+  },
+  {
+    "doc_id": "nl02",
+    "title": "Lịch học Python nền tảng",
+    "text": "Lớp Python nền tảng học vào thứ Hai, thứ Tư và thứ Sáu, từ 19:00 đến 21:00, theo múi giờ UTC+7. Lịch này là lịch lớp của trung tâm giả lập, không phải thời khóa biểu tự học của người dùng bộ bài tập.",
+    "source": "novalearn://nl02",
+    "updated_at": "2026-09-01"
+  },
+  {
+    "doc_id": "nl03",
+    "title": "Điều kiện đầu vào Python",
+    "text": "Khóa Python nền tảng không yêu cầu kinh nghiệm lập trình. Học viên cần tự thao tác tệp và thư mục trên máy tính. Bài kiểm tra đầu vào chỉ xác định phần cần hỗ trợ, không dùng để loại người mới.",
+    "source": "novalearn://nl03",
+    "updated_at": "2026-09-01"
+  },
+  {
+    "doc_id": "nl04",
+    "title": "Điều kiện và thời lượng Machine Learning",
+    "text": "Khóa Machine Learning kéo dài 6 tuần. Học viên cần biết hàm Python, list, dictionary và các phép toán NumPy cơ bản. Chưa đạt điều kiện thì học lại phần Python và NumPy trước khi vào khóa.",
+    "source": "novalearn://nl04",
+    "updated_at": "2026-09-01"
+  },
+  {
+    "doc_id": "nl05",
+    "title": "Học phí Machine Learning",
+    "text": "Khóa Machine Learning có học phí 3.600.000 VND cho toàn khóa. Dữ liệu bài tập nhỏ được cung cấp trong khóa. Học phí chưa bao gồm tài nguyên điện toán trả phí do học viên tự chọn ngoài bài bắt buộc.",
+    "source": "novalearn://nl05",
+    "updated_at": "2026-09-01"
+  },
+  {
+    "doc_id": "nl06",
+    "title": "Điều kiện và thời lượng LLM",
+    "text": "Khóa ứng dụng LLM kéo dài 6 tuần. Điều kiện đầu vào là viết được hàm Python, đọc JSON và hiểu request/response HTTP cơ bản. Khóa bắt đầu từ tìm kiếm tài liệu rồi chuyển sang RAG và công cụ cho agent.",
+    "source": "novalearn://nl06",
+    "updated_at": "2026-09-01"
+  },
+  {
+    "doc_id": "nl07",
+    "title": "Bản ghi buổi học",
+    "text": "Bản ghi được đưa lên cổng học viên chậm nhất 72 giờ sau buổi học. Học viên xem được bản ghi trong 60 ngày kể từ ngày đăng. Không chia sẻ liên kết bản ghi ra ngoài lớp.",
+    "source": "novalearn://nl07",
+    "updated_at": "2026-09-01"
+  },
+  {
+    "doc_id": "nl08",
+    "title": "Hạn nộp bài tập",
+    "text": "Bài tập tuần có hạn nộp mặc định vào Chủ nhật lúc 23:00 UTC+7. Nếu giảng viên ghi hạn khác trong đề thì dùng hạn trong đề. Nộp qua cổng học viên; tin nhắn trong cộng đồng không được tính là nộp bài.",
+    "source": "novalearn://nl08",
+    "updated_at": "2026-09-01"
+  },
+  {
+    "doc_id": "nl09",
+    "title": "Điều kiện chứng nhận",
+    "text": "Để nhận chứng nhận, học viên cần tham gia ít nhất 80% số buổi và đạt tối thiểu 70/100 điểm dự án cuối khóa. Phải đạt cả hai điều kiện. Chỉ đóng đủ học phí không tự đáp ứng điều kiện chứng nhận.",
+    "source": "novalearn://nl09",
+    "updated_at": "2026-09-01"
+  },
+  {
+    "doc_id": "nl10",
+    "title": "Giờ hỗ trợ học viên",
+    "text": "Bộ phận hỗ trợ làm việc từ thứ Hai đến thứ Sáu, 09:00–17:00 UTC+7. Thời hạn phản hồi mục tiêu là trong 2 ngày làm việc. Đây là thời hạn phản hồi đầu tiên, không phải cam kết xử lý xong mọi vấn đề.",
+    "source": "novalearn://nl10",
+    "updated_at": "2026-09-01"
+  },
+  {
+    "doc_id": "nl11",
+    "title": "Bảo lưu khóa học",
+    "text": "Mỗi khóa cho phép bảo lưu một lần, tối đa 14 ngày. Yêu cầu phải được gửi trước thời điểm muốn bắt đầu bảo lưu ít nhất 3 ngày làm việc. Học viên cần chờ xác nhận trong cổng học viên.",
+    "source": "novalearn://nl11",
+    "updated_at": "2026-09-01"
+  },
+  {
+    "doc_id": "nl12",
+    "title": "Hoàn học phí",
+    "text": "Yêu cầu hủy khóa trước ngày khai giảng ít nhất 7 ngày lịch được hoàn 80% học phí đã đóng. Sau mốc này, chính sách mặc định không hoàn học phí. Tài liệu này không quy định trường hợp ngoại lệ.",
+    "source": "novalearn://nl12",
+    "updated_at": "2026-09-01"
+  },
+  {
+    "doc_id": "nl13",
+    "title": "Giờ phòng thực hành trực tuyến",
+    "text": "Phòng thực hành trực tuyến mở vào thứ Ba và thứ Năm, 18:00–20:00 UTC+7. Học viên đăng ký suất trước khi tham gia. Phòng thực hành dùng để hỏi lỗi bài tập, không thay thế buổi học chính.",
+    "source": "novalearn://nl13",
+    "updated_at": "2026-09-01"
+  },
+  {
+    "doc_id": "nl14",
+    "title": "Mượn sách thư viện",
+    "text": "Mỗi học viên được mượn tối đa 2 cuốn sách trong 14 ngày. Có thể gia hạn một lần thêm 7 ngày nếu chưa có người đặt trước. Tài liệu này không quy định mức phạt mất sách.",
+    "source": "novalearn://nl14",
+    "updated_at": "2026-09-01"
+  },
+  {
+    "doc_id": "nl15",
+    "title": "Hạn mức GPU phòng lab",
+    "text": "Mỗi học viên có hạn mức GPU phòng lab là 2 giờ mỗi tuần. Đây là suất tài nguyên của trung tâm giả lập, phải đặt trước và phụ thuộc lịch trống. Hạn mức chưa dùng không được cộng dồn sang tuần sau.",
+    "source": "novalearn://nl15",
+    "updated_at": "2026-09-01"
+  },
+  {
+    "doc_id": "nl16",
+    "title": "Dự án theo nhóm",
+    "text": "Nhóm dự án có từ 2 đến 3 thành viên. Mỗi thành viên phải nộp báo cáo đóng góp cá nhân cùng sản phẩm chung. Một người nộp thay sản phẩm chung không thay thế báo cáo cá nhân của người khác.",
+    "source": "novalearn://nl16",
+    "updated_at": "2026-09-01"
+  },
+  {
+    "doc_id": "nl17",
+    "title": "Học bù và điểm danh",
+    "text": "Mỗi khóa cho phép học bù một buổi vắng bằng bản ghi kèm bài kiểm tra ngắn. Phải được giảng viên xác nhận mới tính buổi học bù vào điểm danh. Xem bản ghi mà không làm bài kiểm tra chưa đủ điều kiện.",
+    "source": "novalearn://nl17",
+    "updated_at": "2026-09-01"
+  },
+  {
+    "doc_id": "nl18",
+    "title": "Xin gia hạn bài tập",
+    "text": "Mỗi khóa được xin gia hạn một bài tập tối đa 48 giờ. Yêu cầu phải gửi trước hạn nộp ban đầu và được giảng viên chấp thuận. Gia hạn không tự động áp dụng cho dự án cuối khóa.",
+    "source": "novalearn://nl18",
+    "updated_at": "2026-09-01"
+  },
+  {
+    "doc_id": "nl19",
+    "title": "Lịch gặp mentor",
+    "text": "Mỗi học viên được đăng ký một phiên gặp mentor 15 phút mỗi tuần. Cần đăng ký trước phiên hẹn ít nhất 24 giờ. Câu hỏi và đoạn mã tối thiểu nên được gửi kèm yêu cầu đăng ký.",
+    "source": "novalearn://nl19",
+    "updated_at": "2026-09-01"
+  },
+  {
+    "doc_id": "nl20",
+    "title": "Dữ liệu dùng trong dự án",
+    "text": "Dự án của trung tâm chỉ dùng dữ liệu giả lập hoặc dữ liệu công khai có quyền sử dụng. Không đưa mật khẩu, khóa API hoặc dữ liệu cá nhân thật của học viên vào kho mã. README phải ghi nguồn dữ liệu.",
+    "source": "novalearn://nl20",
+    "updated_at": "2026-09-01"
+  },
+  {
+    "doc_id": "nl21",
+    "title": "Cách đặt câu hỏi trong cộng đồng",
+    "text": "Khi hỏi lỗi lập trình, hãy gửi thông báo lỗi đầy đủ, đầu vào tối thiểu và các bước đã thử. Đặt đoạn mã trong khối code. Không chỉ gửi câu 'không chạy được' mà thiếu lệnh và dữ liệu tái hiện.",
+    "source": "novalearn://nl21",
+    "updated_at": "2026-09-01"
+  },
+  {
+    "doc_id": "nl22",
+    "title": "Phúc khảo điểm dự án",
+    "text": "Học viên gửi yêu cầu phúc khảo trong 5 ngày lịch kể từ khi công bố điểm. Giảng viên phản hồi trong 3 ngày làm việc sau khi nhận đủ thông tin. Yêu cầu cần chỉ rõ tiêu chí và bằng chứng muốn xem lại.",
+    "source": "novalearn://nl22",
+    "updated_at": "2026-09-01"
+  },
+  {
+    "doc_id": "nl23",
+    "title": "Ưu đãi học theo nhóm",
+    "text": "Nhóm từ 3 học viên đăng ký cùng một khóa được giảm 10% học phí mỗi người. Ưu đãi nhóm không cộng dồn với ưu đãi khác. Các thành viên cần đăng ký cùng đợt để được xét ưu đãi.",
+    "source": "novalearn://nl23",
+    "updated_at": "2026-09-01"
+  },
+  {
+    "doc_id": "nl24",
+    "title": "Hình thức học và nhận chứng nhận",
+    "text": "NovaLearn trong bộ dữ liệu này chỉ tổ chức học trực tuyến, không có địa chỉ lớp học trực tiếp. Chứng nhận được cung cấp dưới dạng PDF trong cổng học viên sau khi đạt đủ điều kiện. Không có dịch vụ gửi bản giấy.",
+    "source": "novalearn://nl24",
+    "updated_at": "2026-09-01"
+  }
+]
