@@ -8,6 +8,7 @@ Sau khi đạt, sao chép sang bai_lam rồi đổi dữ liệu để thử thê
 ten = "An"
 so_buoi = 4
 phut_moi_buoi = 45
+ConMeMay = 1
 
 # Bài 1: Tạo lời chào bằng biến ten. Kết quả với dữ liệu gốc: Xin chào, An!
 # TODO
