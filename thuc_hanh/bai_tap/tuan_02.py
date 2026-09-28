@@ -12,13 +12,16 @@ da_hoc = 7
 
 # Bài 1: Dùng if/else: diem >= 5 thì ket_luan là 'dat', ngược lại 'can_on'.
 # TODO
-ket_luan = None
+if diem >= 5:
+    ket_luan = 'dat'
+else:
+    ket_luan = 'can_on'
 
 # Bài 2: Đổi phut thành gio_nguyen và phut_le bằng // và %.
 # TODO
-gio_nguyen = None
-phut_le = None
+gio_nguyen = phut // 60
+phut_le = phut % 60
 
 # Bài 3: hoan_thanh là bool: True nếu da_hoc >= du_kien.
 # TODO
-hoan_thanh = None
+hoan_thanh = da_hoc >= du_kien

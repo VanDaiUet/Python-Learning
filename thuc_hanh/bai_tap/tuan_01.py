@@ -11,12 +11,12 @@ phut_moi_buoi = 45
 
 # Bài 1: Tạo lời chào bằng biến ten. Kết quả với dữ liệu gốc: Xin chào, An!
 # TODO
-loi_chao = None
+loi_chao = f"Xin chào, {ten}!"
 
 # Bài 2: Tính tổng số phút học từ hai biến số, không viết cứng kết quả.
 # TODO
-tong_phut = None
+tong_phut = so_buoi * phut_moi_buoi
 
 # Bài 3: Đổi tong_phut thành số giờ bằng phép chia.
 # TODO
-tong_gio = None
+tong_gio = tong_phut / 60
