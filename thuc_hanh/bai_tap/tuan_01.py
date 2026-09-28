@@ -4,8 +4,7 @@ Thay chỗ TODO bằng biểu thức/mã phù hợp. Giữ tên biến đầu v�
 để bộ kiểm tra tìm được. Dùng biến để tính, không chép cứng kết quả.
 Sau khi đạt, sao chép sang bai_lam rồi đổi dữ liệu để thử thêm.
 """
-RevertConMeMay = True
-Alo = "Hi"
+
 ten = "An"
 so_buoi = 4
 phut_moi_buoi = 45
